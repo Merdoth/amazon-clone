@@ -50,6 +50,7 @@
 
 .header__optionLineOne {
   font-size: 10px;
+  text-transform: capitalize;
 }
 
 .header__optionLineTwo {
