@@ -5,7 +5,7 @@ import { useStateValue } from "../../StateProvider";
 
 function Product({ id, title, price, image, rating }) {
 
-  const [{ basket }, dispatch] = useStateValue();
+  const [{}, dispatch] = useStateValue();
 
   const addToBasket = () => {
     // dispatch data into the data layer
@@ -39,7 +39,7 @@ function Product({ id, title, price, image, rating }) {
       </div>
 
       <img 
-        alt="product image"
+        alt="product"
         className="product__image" 
         src={image} 
       />
