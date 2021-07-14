@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# WISH AMAZON
 
 This project was bootstrapped with React.js, React-Router-DOM on the client side and firebase on the server side.
 
@@ -15,3 +15,5 @@ See package.json in both the main directory and functions folder
 - CSS
 - Firebase
 - Stripe
+- Moment
+- Axios
