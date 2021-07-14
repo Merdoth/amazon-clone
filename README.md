@@ -6,3 +6,12 @@ This project was bootstrapped with React.js, React-Router-DOM on the client side
 
 See package.json in both the main directory and functions folder
 
+## Technologies
+
+- React.js
+- React-Router-DOM
+- React-Context
+- Material UI
+- CSS
+- Firebase
+- Stripe
